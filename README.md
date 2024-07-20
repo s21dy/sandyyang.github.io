@@ -26,9 +26,9 @@ This is a repository to showcase skills, share projects and track my progress in
   
 
 
-- [Education](https://www.linkedin.com/in/sandy-yang-538b12193/README.md#education)  
-- [Certificates](https://www.linkedin.com/in/sandy-yang-538b12193/README.md#certificates)
-- [Contact](https://www.linkedin.com/in/sandy-yang-538b12193/README.md#contacts)
+- [Education](https://github.com/s21dy/sandyyang.github.io/sandyyang.github.io/README.md#education)  
+- [Certificates](https://github.com/s21dy/sandyyang.github.io/sandyyang.github.io/README.md#certificates)
+- [Contact](https://github.com/s21dy/sandyyang.github.io/sandyyang.github.io/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
